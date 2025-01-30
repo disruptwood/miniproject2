@@ -26,7 +26,7 @@ This project analyzes **Electrocorticography (ECoG) data** to compute and visual
 ## **How to Run**
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/disruptwood/miniproject2>
 Open Jupyter Notebook:
 jupyter notebook
 Run analysis.ipynb to execute the ERP analysis.
